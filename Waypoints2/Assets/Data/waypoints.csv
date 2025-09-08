@@ -1,0 +1,4 @@
+hora,ruta,cantidad,auto_pct,camion_pct,moto_pct
+8:00,Ruta_A,1,100,0,0
+8:00,Ruta_B,1,0,0,100
+8:15,Ruta_A,1,0,100,0
